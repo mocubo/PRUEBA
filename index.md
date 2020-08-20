@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Bienvenido a la página de la pythonisa
 
-You can use the [editor on GitHub](https://github.com/mocubo/PRUEBA/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Ahora es poca cosa, pero dame unos días.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
